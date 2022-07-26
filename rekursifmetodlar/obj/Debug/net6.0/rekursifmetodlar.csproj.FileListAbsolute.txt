@@ -1,0 +1,15 @@
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.csproj.AssemblyReference.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.AssemblyInfoInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.AssemblyInfo.cs
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.csproj.CoreCompileInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\bin\Debug\net6.0\rekursifmetodlar.exe
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\bin\Debug\net6.0\rekursifmetodlar.deps.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\bin\Debug\net6.0\rekursifmetodlar.runtimeconfig.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\bin\Debug\net6.0\rekursifmetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\bin\Debug\net6.0\rekursifmetodlar.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\refint\rekursifmetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\rekursifmetodlar.genruntimeconfig.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\rekursifmetodlar\obj\Debug\net6.0\ref\rekursifmetodlar.dll
