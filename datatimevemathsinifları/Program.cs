@@ -37,7 +37,7 @@ Console.WriteLine(DateTime.Now.ToString("yyy")); //2021
 
 //Math Kutuphanesi 
 Console.WriteLine("***Math Kutuphanesi**");
-Console.WriteLine(Math.Abs(=25));// 25
+Console.WriteLine(Math.Abs(-25));// 25
 Console.WriteLine(Math.Sin(10));
 Console.WriteLine(Math.Cos(10));
 Console.WriteLine(Math.Tan(10));
