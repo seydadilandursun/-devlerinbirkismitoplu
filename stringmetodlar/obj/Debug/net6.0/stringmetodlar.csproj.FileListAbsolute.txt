@@ -1,0 +1,15 @@
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\bin\Debug\net6.0\stringmetodlar.exe
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\bin\Debug\net6.0\stringmetodlar.deps.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\bin\Debug\net6.0\stringmetodlar.runtimeconfig.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\bin\Debug\net6.0\stringmetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\bin\Debug\net6.0\stringmetodlar.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.csproj.AssemblyReference.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.AssemblyInfoInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.AssemblyInfo.cs
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.csproj.CoreCompileInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\refint\stringmetodlar.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\stringmetodlar.genruntimeconfig.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\stringmetodlar\obj\Debug\net6.0\ref\stringmetodlar.dll
