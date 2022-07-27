@@ -1,0 +1,15 @@
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.csproj.AssemblyReference.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.AssemblyInfoInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.AssemblyInfo.cs
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.csproj.CoreCompileInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\bin\Debug\net6.0\odev1.4.exe
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\bin\Debug\net6.0\odev1.4.deps.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\bin\Debug\net6.0\odev1.4.runtimeconfig.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\bin\Debug\net6.0\odev1.4.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\bin\Debug\net6.0\odev1.4.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\refint\odev1.4.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\odev1.4.genruntimeconfig.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\odev1.4\obj\Debug\net6.0\ref\odev1.4.dll
