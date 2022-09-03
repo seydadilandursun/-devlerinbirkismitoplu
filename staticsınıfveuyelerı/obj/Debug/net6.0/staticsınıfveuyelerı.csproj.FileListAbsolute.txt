@@ -1,0 +1,15 @@
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\bin\Debug\net6.0\staticsınıfveuyelerı.exe
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\bin\Debug\net6.0\staticsınıfveuyelerı.deps.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\bin\Debug\net6.0\staticsınıfveuyelerı.runtimeconfig.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\bin\Debug\net6.0\staticsınıfveuyelerı.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\bin\Debug\net6.0\staticsınıfveuyelerı.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.csproj.AssemblyReference.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.AssemblyInfoInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.AssemblyInfo.cs
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.csproj.CoreCompileInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\refint\staticsınıfveuyelerı.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\staticsınıfveuyelerı.genruntimeconfig.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\staticsınıfveuyelerı\obj\Debug\net6.0\ref\staticsınıfveuyelerı.dll
