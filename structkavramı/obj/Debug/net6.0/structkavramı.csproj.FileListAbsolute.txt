@@ -1,0 +1,15 @@
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\bin\Debug\net6.0\structkavramı.exe
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\bin\Debug\net6.0\structkavramı.deps.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\bin\Debug\net6.0\structkavramı.runtimeconfig.json
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\bin\Debug\net6.0\structkavramı.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\bin\Debug\net6.0\structkavramı.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.csproj.AssemblyReference.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.AssemblyInfoInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.AssemblyInfo.cs
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.csproj.CoreCompileInputs.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\refint\structkavramı.dll
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.pdb
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\structkavramı.genruntimeconfig.cache
+C:\Users\dursu\OneDrive\Documents\Pratikler\structkavramı\obj\Debug\net6.0\ref\structkavramı.dll
